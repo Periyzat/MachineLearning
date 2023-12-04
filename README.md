@@ -4,4 +4,4 @@ This repository contains all materials I have learnt from Machine Learning Cours
 2. Linear Regression
 3. Classification Models: Logistic Regression, Desision Tree, Support Vector Machine (SVM), Random Forest and so on...
 
-1. Project:
+Project:
